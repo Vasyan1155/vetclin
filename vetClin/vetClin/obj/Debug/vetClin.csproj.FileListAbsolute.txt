@@ -1,0 +1,49 @@
+D:\is1-33\УП02\vetClin\vetClin\bin\Debug\vetClin.exe.config
+D:\is1-33\УП02\vetClin\vetClin\bin\Debug\vetClin.exe
+D:\is1-33\УП02\vetClin\vetClin\bin\Debug\vetClin.pdb
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.csprojAssemblyReference.cache
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.Form1.resources
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.Form2.resources
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.Properties.Resources.resources
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.csproj.GenerateResource.cache
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.exe
+D:\is1-33\УП02\vetClin\vetClin\obj\Debug\vetClin.pdb
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\bin\Debug\vetClin.exe.config
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\bin\Debug\vetClin.exe
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\bin\Debug\vetClin.pdb
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.csproj.AssemblyReference.cache
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.csproj.SuggestedBindingRedirects.cache
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.Form1.resources
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.Form2.resources
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.Properties.Resources.resources
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.csproj.GenerateResource.cache
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.csproj.CoreCompileInputs.cache
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.exe
+D:\IS1-33\3 курс\УП02\0210\vetClin\vetClin\obj\Debug\vetClin.pdb
+D:\vetClin\vetClin\bin\Debug\vetClin.exe.config
+D:\vetClin\vetClin\bin\Debug\vetClin.exe
+D:\vetClin\vetClin\bin\Debug\vetClin.pdb
+D:\vetClin\vetClin\obj\Debug\vetClin.csproj.AssemblyReference.cache
+D:\vetClin\vetClin\obj\Debug\vetClin.Form1.resources
+D:\vetClin\vetClin\obj\Debug\vetClin.Form2.resources
+D:\vetClin\vetClin\obj\Debug\vetClin.Properties.Resources.resources
+D:\vetClin\vetClin\obj\Debug\vetClin.csproj.GenerateResource.cache
+D:\vetClin\vetClin\obj\Debug\vetClin.csproj.CoreCompileInputs.cache
+D:\vetClin\vetClin\obj\Debug\vetClin.exe
+D:\vetClin\vetClin\obj\Debug\vetClin.pdb
+D:\vetClin\vetClin\obj\Debug\vetClin.Form3.resources
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\bin\Debug\vetClin.exe.config
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\bin\Debug\vetClin.exe
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\bin\Debug\vetClin.pdb
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.csproj.AssemblyReference.cache
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.csproj.SuggestedBindingRedirects.cache
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.Form1.resources
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.Form2.resources
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.Form3.resources
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.Properties.Resources.resources
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.csproj.GenerateResource.cache
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.csproj.CoreCompileInputs.cache
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.exe
+D:\IS1-33\3 курс\УП02\0910\vetClin\vetClin\obj\Debug\vetClin.pdb
+D:\vetClin\vetClin\obj\Debug\vetClin.Form6.resources
+D:\vetClin\vetClin\obj\Debug\vetClin.Form7.resources
